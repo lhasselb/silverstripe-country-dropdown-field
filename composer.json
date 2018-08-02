@@ -17,8 +17,8 @@
   "type": "silverstripe-vendormodule",
   "license": "BSD-3-Clause",
   "require": {
-    "silverstripe/recipe-cms": "4.2.1",
-    "silverstripe/vendor-plugin": "1.3.3"
+    "silverstripe/recipe-cms": "^4.0",
+    "silverstripe/vendor-plugin": "^1.0"
   },
   "require-dev": {
     "phpunit/PHPUnit": "^5.7",
